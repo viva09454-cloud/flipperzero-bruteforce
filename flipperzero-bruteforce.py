@@ -1,4 +1,4 @@
-import os
+https://github.com/viva09454-cloud/flipperzero-bruteforce/blob/main/flipperzero-bruteforce.pyimport os
 import math
 
 
